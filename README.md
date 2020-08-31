@@ -1,20 +1,23 @@
-# Chat
+# Open Chat with channel and Elixir Phoenix
 
-To start your Phoenix server:
+   An open chat implementation based on ["A Chat Room in 8 Minutes with Phoenix"](https://www.youtube.com/watch?v=ZUNzXbIP_FQ), by Elixir Casts. will be some upgrades than the original content.
+<!-- ```
+ https://www.youtube.com/watch?v=ZUNzXbIP_FQ
+``` -->
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Install Node.js dependencies with `npm install` inside the `assets` directory
-  * Start Phoenix endpoint with `mix phx.server`
+### Pré-requisitos
+```
+ PostgreSQL
+ Erlang and Elixir
+ Phoenix Framework
+```
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+<!-- ## Deployment
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+ O projeto está pré-moldado para ser implantado pelo heroku. -->
 
-## Learn more
 
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+## Built With
+
+* [Phoenix](https://www.phoenixframework.org/) - The framework
+* [Elixir](https://elixir-lang.org/) - The Language
