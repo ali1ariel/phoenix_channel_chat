@@ -5,7 +5,7 @@
  https://www.youtube.com/watch?v=ZUNzXbIP_FQ
 ``` -->
 
-### Pré-requisitos
+## Requirements
 ```
  PostgreSQL
  Erlang and Elixir
